@@ -7,7 +7,7 @@
               "icon": "./assets/icon.png",
               "userInterfaceStyle": "light",
               "newArchEnabled": false,
-              "splash": {
+                                      "versionCode": 5
                         "image": "./assets/splash-icon.png",
                         "resizeMode": "contain",
                         "backgroundColor": "#ffffff"
